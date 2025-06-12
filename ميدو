@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>المهندس أحمد وحبيبته نور</title>
+  <meta name="google-site-verification" content="i4U1GQXd5QsQ80mLzWvI7lcBJAzBrMOjUhJr1CsCjQs" />
+  <style>
+    body {
+      font-family: "Cairo", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    header {
+      background-color: #0077b6;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #023e8a;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+      background: white;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>المهندس أحمد وحبيبته نور</h1>
+    <p>منصة مبسطة للمعرفة العلمية</p>
+  </header>
+
+  <nav>
+    <a href="#">الرئيسية</a>
+    <a href="#">مقالات</a>
+    <a href="#">حول</a>
+    <a href="#">اتصل بنا</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>أحدث المقالات</h2>
+      <p>ما هو الفرق بين المركبات العضوية وغير العضوية؟</p>
+      <p>لماذا تظهر ألوان مختلفة في لهب العناصر؟</p>
+    </section>
+
+    <section>
+      <h2>عن الموقع</h2>
+      <p>موقع "المهندس أحمد وحبيبته نور" يهدف لتبسيط العلوم لجميع الأعمار من خلال مقالات مبسطة في الكيمياء، الفيزياء، الأحياء، وغيرها.</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 ❤️❤️المهندس أحمد وحبيبته نور - جميع القلوب محفوظة
+  </footer>
+</body>
+</html>
